@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/tic-tac-toe-hooks/static/css/main.5f361e03.chunk.css",
+    "main.js": "/tic-tac-toe-hooks/static/js/main.49d8f838.chunk.js",
+    "main.js.map": "/tic-tac-toe-hooks/static/js/main.49d8f838.chunk.js.map",
+    "runtime-main.js": "/tic-tac-toe-hooks/static/js/runtime-main.b2a6d5e4.js",
+    "runtime-main.js.map": "/tic-tac-toe-hooks/static/js/runtime-main.b2a6d5e4.js.map",
+    "static/js/2.9308e7b8.chunk.js": "/tic-tac-toe-hooks/static/js/2.9308e7b8.chunk.js",
+    "static/js/2.9308e7b8.chunk.js.map": "/tic-tac-toe-hooks/static/js/2.9308e7b8.chunk.js.map",
+    "index.html": "/tic-tac-toe-hooks/index.html",
+    "precache-manifest.eb785bc865f67db12e8c221470b06776.js": "/tic-tac-toe-hooks/precache-manifest.eb785bc865f67db12e8c221470b06776.js",
+    "service-worker.js": "/tic-tac-toe-hooks/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/tic-tac-toe-hooks/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.9308e7b8.chunk.js.LICENSE.txt": "/tic-tac-toe-hooks/static/js/2.9308e7b8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b2a6d5e4.js",
+    "static/js/2.9308e7b8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.49d8f838.chunk.js"
+  ]
+}
